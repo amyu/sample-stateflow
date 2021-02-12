@@ -1,0 +1,1 @@
+StateFlowがDatabindingに対応したらしいから､LiveDataのように使ってみたサンプル
